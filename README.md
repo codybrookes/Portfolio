@@ -59,6 +59,7 @@ My journey in technology has led me to develop a passion for cybersecurity and n
 
 ## Projects
 - <a href="https://github.com/codybrookes/Honey-Pot.git">Honey Pot</a>
-- SOC Automation Project
-- Created HoneyPot
-- SQL Injection
+- <a href="https://google.com">Linux Projects</a>
+- <a href="https://google.com">Python Projects</a>
+- <a href="https://google.com">SQL Injection</a>
+- <a href="https://google.com">Traffic Analysis Projects</a>
